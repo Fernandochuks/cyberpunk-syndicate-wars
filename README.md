@@ -1,2 +1,16 @@
-# cyberpunk-syndicate-wars
-A Telegram Mini App idle strategy game set in a cyberpunk dystopia
+# Logs
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Build output
+/dist/
+
+# Editor settings
+.vscode/
+.DS_Store
+
+# Env files
+.env
+.env.*
